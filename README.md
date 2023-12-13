@@ -57,3 +57,11 @@
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/md-100/" target="_blank"><img src="https://images.credly.com/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png" width="100" height="100"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://training.fortinet.com/local/staticpage/view.php?page=nse_4" target="_blank"><img src="https://www.insoftservices.uk/wp-content/uploads/2022/01/NSE4-Certification.png" width="100" height="100"></a>
 </p>
+
+## Stats
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeynz&show_icons=true&theme=github_dark_dimmed" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeynz&layout=compact&show_icons=true&theme=github_dark_dimmed" />
+</a>
