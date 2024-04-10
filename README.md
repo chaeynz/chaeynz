@@ -34,7 +34,7 @@
 
 ## OS
 <p align="center">
-  <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-Black?style=flat&logo=archlinux&color=black></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-Black?style=flat&logo=archlinux&color=black"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-black?logo=debian&logoColor=red"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-black?logo=ubuntu&logoColor=orange"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://alpinelinux.org/" target="_blank"><img src="https://img.shields.io/badge/Alpine-black?logo=alpinelinux&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
