@@ -6,8 +6,6 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-darkblue?logo=python&logoColor=yellow"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.shields.io/badge/Powershell-black?logo=powershell&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-orange?logo=rust"></a>&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/X86 Assembly-black"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white"></a>
 </p>
 
@@ -19,14 +17,11 @@
 
 ## Infrastructure
 <p align="center">
-  <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/EC2-white?logo=amazonec2&logoColor=orange"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/route53/" target="_blank"><img src="https://img.shields.io/badge/Route%2053-black?logo=amazonaws&logoColor=orange"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/AWS%20EC2-white?logo=amazonec2&logoColor=orange"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-white?logo=docker&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.microsoft.com/en-us/mem/configmgr/" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Endpoint%20Configuration%20Manager-black?logo=windows10&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank"><img src="https://img.shields.io/badge/Active%20Directory-black?logo=windows10&logoColor=blue"></a>
 </p>
 <p align="center">
-
   <a href="https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/" target="_blank"><img src="https://img.shields.io/badge/Hyper%20V-black?logo=windows&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank"><img src="https://img.shields.io/badge/VMware%20Workstation-orange?logo=vmware&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.vmware.com/products/vsphere.html" target="_blank"><img src="https://img.shields.io/badge/ESXi-orange?logo=vmware&logoColor=blue"></a>
