@@ -3,28 +3,25 @@
 ## Programming languages
 
 <p align="center">
+  <a href="https://docs.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/Ansible-black?logo=ansible&logoColor=red"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-darkblue?logo=python&logoColor=yellow"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C++-blue?logo=c%2B%2B"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.shields.io/badge/Powershell-black?logo=powershell&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-black?logo=gnubash&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-black?logo=HTML5&logoColor=red">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=blue">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PHP-white?logo=php&logoColor=%237377AD">
-</p>
 
 ## Infrastructure
 <p align="center">
-  <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/AWS%20EC2-white?logo=amazonec2&logoColor=orange"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/Elastic%20Compute%20Cloud-black?logo=amazonwebservices&logoColor=orange&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-white?logo=docker&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank"><img src="https://img.shields.io/badge/Active%20Directory-black?logo=windows10&logoColor=blue"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Ansible%20Automation%20Platform-black?logo=ansible&logoColor=darkred&logoSize=auto"></a>
 </p>
 <p align="center">
-  <a href="https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/" target="_blank"><img src="https://img.shields.io/badge/Hyper%20V-black?logo=windows&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.vmware.com/products/workstation-pro.html" target="_blank"><img src="https://img.shields.io/badge/VMware%20Workstation-orange?logo=vmware&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.vmware.com/products/vsphere.html" target="_blank"><img src="https://img.shields.io/badge/ESXi-orange?logo=vmware&logoColor=blue"></a>
+  <a href="https://www.vmware.com/products/cloud-infrastructure/vsphere" target="_blank"><img src="https://img.shields.io/badge/vSphere-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>
+  <a href="https://www.vmware.com/products/cloud-infrastructure/nsx" target="_blank"><img src="https://img.shields.io/badge/NSX-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/MikroTik-white?logo=Mikrotik&logoColor=grey"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Palo%20Alto%20Networks-black?logo=paloaltonetworks&logoColor=orange"></a>
+
+
+
 </p>
 
 ## OS
@@ -34,11 +31,11 @@
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-black?logo=ubuntu&logoColor=orange"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://alpinelinux.org/" target="_blank"><img src="https://img.shields.io/badge/Alpine-black?logo=alpinelinux&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali-black?logo=kalilinux&logoColor=white"></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-black?logo=redhat&logoColor=darkred&logoSize=auto"></a>
+
 </p>
 <p align="center">
-  <a href="https://www.microsoft.com/en-us/windows/windows-10" target="_blank"><img src="https://img.shields.io/badge/Windows%2010-gray?logo=windows10&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank"><img src="https://img.shields.io/badge/Windows%2011-white?logo=windows11&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/windows-server" target="_blank"><img src="https://img.shields.io/badge/Windows%20Server%202022-black?logo=windows10&logoColor=blue"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Windows%20Server%202022-black?logo=windows10&logoColor=blue"></a>
 </p>
 
 ## Certs
