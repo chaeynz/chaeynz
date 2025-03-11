@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://docs.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/Ansible-black?logo=ansible&logoColor=red"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-darkblue?logo=python&logoColor=yellow"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-darkblue?logo=python&logoColor=yellow"></a>
 </p>
 
 
@@ -15,13 +15,10 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Ansible%20Automation%20Platform-black?logo=ansible&logoColor=darkred&logoSize=auto"></a>
 </p>
 <p align="center">
-  <a href="https://www.vmware.com/products/cloud-infrastructure/vsphere" target="_blank"><img src="https://img.shields.io/badge/vSphere-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>
-  <a href="https://www.vmware.com/products/cloud-infrastructure/nsx" target="_blank"><img src="https://img.shields.io/badge/NSX-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/MikroTik-white?logo=Mikrotik&logoColor=grey"></a>
+  <a href="https://www.vmware.com/products/cloud-infrastructure/vsphere" target="_blank"><img src="https://img.shields.io/badge/vSphere-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.vmware.com/products/cloud-infrastructure/nsx" target="_blank"><img src="https://img.shields.io/badge/NSX-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/MikroTik-white?logo=Mikrotik&logoColor=grey"></a>&nbsp;&nbsp;&nbsp;
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Palo%20Alto%20Networks-black?logo=paloaltonetworks&logoColor=orange"></a>
-
-
-
 </p>
 
 ## OS
@@ -30,7 +27,7 @@
   <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-black?logo=debian&logoColor=red"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-black?logo=ubuntu&logoColor=orange"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://alpinelinux.org/" target="_blank"><img src="https://img.shields.io/badge/Alpine-black?logo=alpinelinux&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali-black?logo=kalilinux&logoColor=white"></a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali-black?logo=kalilinux&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-black?logo=redhat&logoColor=darkred&logoSize=auto"></a>
 
 </p>
@@ -52,7 +49,7 @@
 
 ## Stats
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeynz&show_icons=true&theme=github_dark_dimmed" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaeynz&show_icons=true&theme=github_dark_dimmed"/>&nbsp;&nbsp;&nbsp;
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeynz&layout=compact&show_icons=true&theme=github_dark_dimmed" />
