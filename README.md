@@ -20,6 +20,11 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MikroTik-white?logo=Mikrotik&logoColor=grey"></a>&nbsp;&nbsp;&nbsp;
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Palo%20Alto%20Networks-black?logo=paloaltonetworks&logoColor=orange"></a>
 </p>
+<p align="center">
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/NetBox-blue?logo=netbox&logoColor=black&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Nautobot-darkblue?logo=nautobot&logoColor=black&logoSize=auto"></a>
+</p>
+
 
 ## OS
 <p align="center">
