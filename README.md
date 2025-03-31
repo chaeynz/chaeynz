@@ -21,7 +21,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Palo%20Alto%20Networks-black?logo=paloaltonetworks&logoColor=orange"></a>
 </p>
 <p align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/NetBox-blue?logo=netbox&logoColor=black&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/NetBox-001423.svg?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgMzIwIj4KICA8ZyBmaWxsPSIjOWNjOGY4IiBzdHJva2U9IiM5Y2M4ZjgiPgogICAgPGNpcmNsZSBjeD0iMzciIGN5PSIyODQiIHI9IjIzIi8+CiAgICA8Y2lyY2xlIGN4PSIxMDEiIGN5PSIzNyIgcj0iMjMiLz4KICAgIDxjaXJjbGUgY3g9IjEwMSIgY3k9IjIyMCIgcj0iMjMiLz4KICAgIDxjaXJjbGUgY3g9IjI4NCIgY3k9IjIyMCIgcj0iMjMiLz4KICAgIDxyZWN0IHg9IjkzIiB5PSIzNyIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE4MCIvPgogICAgPHJlY3QgeD0iMTAxIiB5PSIyMTIiIHdpZHRoPSIxODAiIGhlaWdodD0iMTYiLz4KICAgIDxyZWN0IHg9IjkzIiB5PSIyMTIiIHdpZHRoPSIxNiIgaGVpZ2h0PSI5MCIgdHJhbnNmb3JtPSJyb3RhdGUoNDUgMTAxIDIyMCkiLz4KICA8L2c+CiAgPGcgZmlsbD0iIzE2ODVmYyIgc3Ryb2tlPSIjMTY4NWZjIj4KICAgIDxjaXJjbGUgY3g9IjI4NCIgY3k9IjM3IiByPSIyMyIvPgogICAgPGNpcmNsZSBjeD0iMzciIGN5PSIxMDEiIHI9IjIzIi8+CiAgICA8Y2lyY2xlIGN4PSIyMjAiIGN5PSIxMDEiIHI9IjIzIi8+CiAgICA8Y2lyY2xlIGN4PSIyMjAiIGN5PSIyODQiIHI9IjIzIi8+CiAgICA8cmVjdCB4PSIzNyIgeT0iOTMiIHdpZHRoPSIxODAiIGhlaWdodD0iMTYiLz4KICAgIDxyZWN0IHg9IjIxMiIgeT0iMTAxIiB3aWR0aD0iMTYiIGhlaWdodD0iMTgwIi8+CiAgICA8cmVjdCB4PSIyMTIiIHk9IjkzIiB3aWR0aD0iMTYiIGhlaWdodD0iOTAiIHRyYW5zZm9ybT0icm90YXRlKDIyNSAyMjAgMTAxKSIvPgogIDwvZz4KPHNjcmlwdCB4bWxucz0iIi8+PC9zdmc+"></a>&nbsp;&nbsp;&nbsp;
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Nautobot-darkblue?logo=nautobot&logoColor=black&logoSize=auto"></a>
 </p>
 
