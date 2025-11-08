@@ -40,15 +40,9 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Windows%20Server%202022-black?logo=windows10&logoColor=blue"></a>
 </p>
 
-## Certs
-<p align="center">
-  <a href="https://training.fortinet.com/local/staticpage/view.php?page=nse_1" target="_blank"><img src="https://www.insoftservices.uk/wp-content/uploads/2022/01/NSE1-Certification.png" width="100" height="100"></a>&nbsp;
-  <a href="https://training.fortinet.com/local/staticpage/view.php?page=nse_2" target="_blank"><img src="https://www.insoftservices.uk/wp-content/uploads/2022/01/NSE2-Certification.png" width="100" height="100"></a>&nbsp;
-  <a href="https://training.fortinet.com/local/staticpage/view.php?page=nse_3" target="_blank"><img src="https://www.insoftservices.uk/wp-content/uploads/2022/01/NSE3-Certification.png" width="100" height="100"></a>
-</p>
+## Relevant Certs
 <p align="center">
   <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~about-ccna" target="_blank"><img src="https://raw.githubusercontent.com/chaeynz/chaeynz/refs/heads/main/assets/ccna.png" width="100" height="100"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/md-100/" target="_blank"><img src="https://images.credly.com/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png" width="100" height="100"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://training.fortinet.com/local/staticpage/view.php?page=nse_4" target="_blank"><img src="https://www.insoftservices.uk/wp-content/uploads/2022/01/NSE4-Certification.png" width="100" height="100"></a>
 </p>
 
