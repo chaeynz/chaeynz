@@ -10,15 +10,21 @@
 
 ## Infrastructure
 <p align="center">
-  <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/Elastic%20Compute%20Cloud-black?logo=amazonwebservices&logoColor=orange&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-white?logo=docker&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.vmware.com/products/cloud-infrastructure/vsphere" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-white?logo=kubernetes"></a>&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Ansible%20Automation%20Platform-black?logo=ansible&logoColor=red&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Terraform-white?logo=terraform"></a>
   
 </p>
 <p align="center">
+  <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/Elastic%20Compute%20Cloud-black?logo=amazonwebservices&logoColor=orange&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.vmware.com/products/cloud-infrastructure/vsphere" target="_blank"><img src="https://img.shields.io/badge/vSphere-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.vmware.com/products/cloud-infrastructure/nsx" target="_blank"><img src="https://img.shields.io/badge/NSX-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.vmware.com/products/cloud-infrastructure/nsx" target="_blank"><img src="https://img.shields.io/badge/NSX-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>
+  
+</p>
+<p align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MikroTik-white?logo=Mikrotik&logoColor=grey"></a>&nbsp;&nbsp;&nbsp;
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Palo%20Alto%20Networks-black?logo=paloaltonetworks&logoColor=orange"></a>
 </p>
