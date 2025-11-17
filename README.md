@@ -12,7 +12,9 @@
 <p align="center">
   <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/Elastic%20Compute%20Cloud-black?logo=amazonwebservices&logoColor=orange&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-white?logo=docker&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Ansible%20Automation%20Platform-black?logo=ansible&logoColor=darkred&logoSize=auto"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Ansible%20Automation%20Platform-black?logo=ansible&logoColor=red&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Terraform-white?logo=terraform"></a>
+  
 </p>
 <p align="center">
   <a href="https://www.vmware.com/products/cloud-infrastructure/vsphere" target="_blank"><img src="https://img.shields.io/badge/vSphere-darkorange?logo=vmware&logoColor=black&logoSize=auto"></a>&nbsp;&nbsp;&nbsp;
